@@ -10,10 +10,14 @@ Este proyecto está enmarcado dentro de la Especialización de Big Data e Inteli
 
 El proyecto está organizado de la siguiente manera:
 
-├── data/\n
-│ ├── Archivos necesarios para el análisis.\n
-├── notebooks/ # Notebooks de Google Colab para análisis y visualización\n
-│ ├── Archivo de Google Colab.\n
+├── data/
+
+│ ├── Archivos necesarios para el análisis.
+
+├── notebooks/ # Notebooks de Google Colab para análisis y visualización
+
+│ ├── Archivo de Google Colab.
+
 ├── README.md # Descripción del proyecto
 
 
